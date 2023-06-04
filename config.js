@@ -34,7 +34,7 @@ module.exports = {
     SESSION: (process.env.SESSION || process.env.SESSION_ID || '').trim() || '',
     IMGBB_KEY: ["76a050f031972d9f27e329d767dd988f", "deb80cd12ababea1c9b9a8ad6ce3fab2", "78c84c62b32a88e86daf87dd509a657a"],
     RG: process.env.RG || '919074309534-1632403322@g.us,120363116963909366@g.us',
-    BOT_INFO: process.env.BOT_INFO || '🇦🇱⃞⍣𝑯͢𝑰𝑷𝑺̷ᜲ᪵͢𝑻𝑬⃮𝑹֣ㅤ𝑺̷᪵𝑬ᜲ𝑹᪵;akshy;https://i.imgur.com/wcLnVdO.jpg
+    BOT_INFO: process.env.BOT_INFO || ' 𝐇𝐈𝐏𝐒𝐓𝐄𝐑 ;akshy;https://i.imgur.com/wcLnVdO.jpg
 ',
     RBG_KEY: process.env.RBG_KEY || '',
     ALLOWED: process.env.ALLOWED || '91,94,2',
@@ -42,7 +42,7 @@ module.exports = {
     CHATBOT: process.env.CHATBOT || 'off',
     HANDLERS: process.env.HANDLERS || '.,',
     STICKER_DATA: process.env.STICKER_DATA || "🇦🇱⃞⍣𝑯͢𝑰𝑷𝑺̷ᜲ᪵͢𝑻𝑬⃮𝑹֣ㅤ𝑺̷᪵𝑬ᜲ𝑹᪵",
-    BOT_NAME: process.env.BOT_NAME || '🇦🇱⃞⍣𝑯͢𝑰𝑷𝑺̷ᜲ᪵͢𝑻𝑬⃮𝑹֣ㅤ𝑺̷᪵𝑬ᜲ𝑹᪵',
+    BOT_NAME: process.env.BOT_NAME || ' 𝐇𝐈𝐏𝐒𝐓𝐄𝐑 ',
     AUDIO_DATA: process.env.AUDIO_DATA === undefined || process.env.AUDIO_DATA === "private" ? '🇦🇱⃞⍣𝑯͢𝑰𝑷𝑺̷ᜲ᪵͢𝑻𝑬⃮𝑹֣ㅤ𝑺̷᪵𝑬ᜲ𝑹᪵;Hipster MD bot;https://i.imgur.com/wcLnVdO.jpg' : process.env.AUDIO_DATA,
     TAKE_KEY: process.env.TAKE_KEY || '',
     MODE: process.env.MODE || 'private',
