@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"🇦🇱⃞⍣𝑯͢𝑰𝑷𝑺̷ᜲ᪵͢𝑻𝑬⃮𝑹֣ㅤ𝑺̷᪵𝑬ᜲ𝑹᪵"
+            "value":"ꜱᴏᴍᴇᴛɪᴍᴇ ɪᴛꜱ ʙᴇᴛᴛᴇʀ ᴛᴏ ʙᴇ ᴀʟᴏɴᴇ ɴᴏʙᴏᴅy ᴄᴀɴ ʜᴜʀᴛ yᴏᴜ❢"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -50,13 +50,13 @@
         },
         "BOT_NAME": {
             "description": "Name of AI chatbot",
-            "required": false,
-            "value":"🇦🇱⃞⍣𝑯͢𝑰𝑷𝑺̷ᜲ᪵͢𝑻𝑬⃮𝑹֣ㅤ𝑺̷᪵𝑬ᜲ𝑹᪵"
+            "required": true,
+            "value":" 𝐇𝐈𝐏𝐒𝐓𝐄𝐑 "
         },
         "BOT_INFO": {
             "description": "Name, image, owner and other details in menu (seperate with comma)",
             "required": true,
-            "value":"🇦🇱⃞⍣𝑯͢𝑰𝑷𝑺̷ᜲ᪵͢𝑻𝑬⃮𝑹֣ㅤ𝑺̷᪵𝑬ᜲ𝑹᪵,SKL11,916282938526,https://i.imgur.com/wcLnVdO.jpg"
+            "value":" 𝐇𝐈𝐏𝐒𝐓𝐄𝐑 ,»་˻Ḁᴋ᪳ꜱ᪵͢ʜʏ,916282938526,https://i.imgur.com/wcLnVdO.jpg"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
