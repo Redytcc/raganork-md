@@ -50,7 +50,7 @@
         },
         "BOT_NAME": {
             "description": "Name of AI chatbot",
-            "required": true,
+            "required": false,
             "value":"🇦🇱⃞⍣𝑯͢𝑰𝑷𝑺̷ᜲ᪵͢𝑻𝑬⃮𝑹֣ㅤ𝑺̷᪵𝑬ᜲ𝑹᪵"
         },
         "BOT_INFO": {
